@@ -1,4 +1,4 @@
-# Build API using FastAPI
+# Build API using FastAPI (ASGI enabled) with Uvicorn
 GOAL : To build full fledged API using FastAPI library, dockerize the app, build CI/CD Pipelines etc
 
 ### What this API does?
