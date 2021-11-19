@@ -4,8 +4,11 @@
 - allows to setup user registration and authentication
 
 ## (2) To build website to access all the questions on Stackoverflow using Stackoverflow API 
+- keeping the scope of this exercise to Questions part only as Stackoverflow api has tons of endpoints.
 
 ### Some notes
 
 - To host the FastAPI website/app, 
 https://towardsdatascience.com/how-to-deploy-your-fastapi-app-on-heroku-for-free-8d4271a4ab9
+
+- https://api.stackexchange.com/docs/questions  ==> Stacjoverflow API documentation
