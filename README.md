@@ -1,9 +1,9 @@
 # Build APIs - using FastAPI (ASGI enabled) with Uvicorn + Stackoverflow API Access 
-##(1) To build full fledged API using FastAPI library, dockerize the app, build CI/CD Pipelines etc
+## (1) To build full fledged API using FastAPI library, dockerize the app, build CI/CD Pipelines etc
 - API allows users to create/read/delete/update posts, like other posts
 - allows to setup user registration and authentication
 
-##(2) To build website to access all the questions on Stackoverflow using Stackoverflow API 
+## (2) To build website to access all the questions on Stackoverflow using Stackoverflow API 
 
 ### Some notes
 
